@@ -53,7 +53,7 @@ input[type="checkbox"] {
         left: -250px;
         height: 100%;
         transition: all 0.2s;
-        background: hsl(0, 93%, 34%);
+        background: #ffffff;
     }
     input[type="checkbox"]:checked ~ aside {
         left: 0;
